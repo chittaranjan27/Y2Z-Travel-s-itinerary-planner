@@ -4,17 +4,6 @@ A beautifully interactive **drag-and-drop itinerary planner** built using **Reac
 
 ---
 
-## 🎥 1-Minute Demo Video
-
-🔗 [Click here to watch the demo](https://chatgpt.com/share/68417b7a-176c-800c-8b8c-d012cce2dd55)
-
-In the demo:
-- Drag and drop cards to reorder.
-- Edit activity descriptions inline.
-- Access options like view on map, copy link, and delete.
-
----
-
 ## 🚀 Features
 
 ✅ Intuitive drag-and-drop interaction  
