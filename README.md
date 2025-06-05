@@ -42,26 +42,4 @@ A beautifully interactive **drag-and-drop itinerary planner** built using **Reac
 | Responsiveness of dynamic draggable cards | Used Tailwind’s grid/flex layout + `DnD Kit` transform utilities |
 | Preventing drag interference with buttons/editing | Used `e.stopPropagation()` on interactive elements |
 
----
-
-## 💡 Future Improvements
-
-- [ ] Add local or backend storage for persistent state  
-- [ ] Enable dynamic card addition via modal/form  
-- [ ] Mobile-first UI refinements  
-- [ ] Add dark mode switch
-
----
-
-## 🙋‍♂️ Author
-
-**Chitta Ranjan**  
-🧑‍💻 MCA | React & Full Stack Enthusiast  
-📫 chittaranjan@example.com  
-🔗 [GitHub](https://github.com/chittaranjan27)
-
----
-
-> If you like this project, consider giving it a ⭐ on GitHub!
-
 
